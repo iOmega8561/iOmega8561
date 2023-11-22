@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - 🌐 You can check out most of my projects here on GitHub
 
 ## 🔧 What I'm up to
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 I'm currently...
     - Building a self-hosting solution
     - Learning Kubernetes
 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-    - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (it looks like too much of a hassle right now...)
+- 🤞 One day I hope to...
+    - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
+    - Install Gentoo (It looks too much of a hassle right now...)
