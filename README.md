@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📖 About me
 - 🐧 Linux enthusiast and Open Source enjoyer
 - 🖥 Budding system administrator
-- 📱 World Class Developer, graduated from Apple Developer Academy
+- 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
 - 🎓 Computer Engineering student at Federico II in Naples
 - 🎮 PC gaming enthusiast and hardcore gamer
 - 🌐 You can check out most of my projects here on GitHub
