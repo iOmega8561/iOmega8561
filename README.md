@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Nice to see you here! 👋
 
 <!--
 **iOmega8561/iOmega8561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📖 About me
+- 🐧 Linux enthusiast and Open Source enjoyer
+- 🖥 Budding system administrator
+- 📱 World Class Developer, graduated from Apple Developer Academy
+- 🎓 Computer Engineering student at Federico II in Naples
+- 🎮 PC gaming enthusiast and hardcore gamer
+- 🌐 You can check out most of my projects here on GitHub
+
+## 🔧 What I'm up to
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+    - Building a self-hosting solution
+    - Learning Kubernetes
+
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
+    - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (it looks like too much of a hassle right now...)
