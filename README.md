@@ -32,4 +32,4 @@ Here are some ideas to get you started:
     - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
     - Install Gentoo (Without having to spend 72 hours to compile my packages...)
 
-![arch_logo](./arch_logo.png)
+![Alt text](relative%20path/arch_logo.png?raw=true) I use Arch btw.
