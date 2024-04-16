@@ -32,4 +32,4 @@ Here are some ideas to get you started:
     - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
     - Install Gentoo (Without having to spend 72 hours to compile my packages...)
 
-<h1><img align="center" height="16" src="https://github.com/iOmega8561/iOmega8561/blob/master/arch-logo.png?raw=True"> I use Arch btw.</h1>
+<h5><img align="center" height="16" src="https://github.com/iOmega8561/iOmega8561/blob/master/arch-logo.png?raw=True"> I use Arch btw.</h5>
