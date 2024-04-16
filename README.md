@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📖 About me
-- 🐧 Linux enthusiast and Open Source enjoyer
+- 🐧 Linux user and general [OSS](https://www.redhat.com/en/topics/open-source/what-is-open-source) enjoyer
 - 🖥 Hobbyist system administrator
 - 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
 - 🎓 Computer Engineering student at [UNINA](http://www.unina.it)
