@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🔧 What I'm up to
 - 🔨 I'm currently...
-    - Building a self-hosting solution
+    - Working on my self hosted environment
     - Learning Kubernetes
 
 - 🤞 One day I hope to...
