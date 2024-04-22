@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🐧 Linux enthusiast and [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source) supporter
 - 🖥 Hobbyist system administrator
 - 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
+- 💼 EQF5 Qualified Database Engineer
 - 🎓 Computer Engineering student at [UNINA](http://www.unina.it)
 - 🎮 PC gaming enthusiast and hardcore gamer
 - 🌐 You can check out most of my projects here on GitHub
