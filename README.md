@@ -47,7 +47,7 @@ Learning another language or using a new toolchain is not an issue for me.
     - Working on my self hosted environment
     - Learning Kubernetes
 
-- 🤞 One day I hope to... 
-    - Eventually learn Rust
+- 🤞 One day I hope to...
     - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
-    - Install Gentoo (Without having to spend 72 hours to compile my packages...)
+    - Write something in [Rust](https://www.rust-lang.org/it) (I did not have the chance yet)
+    - Install [Gentoo Linux](https://www.gentoo.org/) (too much time to compile stuff)
