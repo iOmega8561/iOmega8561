@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌐 You can check out most of my projects here on GitHub
 
 ## 📚 My skillset
-I am a versatile developer, but I prefer working on back-end.  
+I am a versatile developer; if i really have to express a preference, that would be Swift.  
 Learning another language or using a new toolchain is not an issue for me.
 
 <br>My favourite languages:</br>
