@@ -44,7 +44,7 @@ Learning another language or using a new toolchain is not an issue for me.
 
 ## 🔧 What I'm up to
 - 🔨 I'm currently...
-    - Developiing my own Virtual Machine manager [here](https://github.com/iOmega8561/VirtHandler)
+    - Developing my own Virtual Machine manager [here](https://github.com/iOmega8561/VirtHandler)
     - Learning Kubernetes
 
 - 🤞 One day I hope to...
