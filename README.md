@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌐 You can check out most of my projects here on GitHub
 
 ## 📚 My skillset
-I believe that with patience and commitment, anything can be achieved.
+I believe that with patience and commitment, anything can be achieved.  
 Learning another language or using a new toolchain is not an issue for me.
 
 <br>My favourite languages:</br>
