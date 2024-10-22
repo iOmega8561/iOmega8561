@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔥 **Brewing VirtHandler:** 
+The game-changing virtual machine manager that's about to set macOS on fire! more about it [here](https://iomega8561.github.io/VirtHandlerWiki/). 🚀
+
 ## 📖 About me
 - 🐧 Linux enthusiast and [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source) supporter
 - 🖥 Hobbyist system administrator
 - 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
-- 💼 Qualified Database Engineer, EQF 5 Level
+- 💼 Database Engineer with EQF level 5 qualification
 - 🎓 Computer Engineering student at [UNINA](http://www.unina.it)
 - 🎮 PC gaming enthusiast and hardcore gamer
 - 🌐 You can check out most of my projects here on GitHub
@@ -44,8 +47,8 @@ Learning another language or using a new toolchain is not an issue for me.
 
 ## 🔧 What I'm up to
 - 🔨 I'm currently...
-    - Developing my own macOS Virtual Machine manager [here](https://github.com/iOmega8561/VirtHandlerWiki), soon available on the AppStore!
-    - Learning Kubernetes
+    - Exploring new horizons at Apple Developer Academy!
+    - Learning about Spacial Computing and Augmented Reality
 
 - 🤞 One day I hope to...
     - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
