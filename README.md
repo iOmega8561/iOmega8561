@@ -25,17 +25,6 @@ The game-changing virtual machine manager that's about to set macOS on fire! mor
 - 💼 Database Engineer with EQF level 5 qualification
 - 🎓 Computer Engineering student at [UNINA](http://www.unina.it)
 - 🎮 PC gaming enthusiast and hardcore gamer
-- 🌐 You can check out most of my projects here on GitHub
-
-<div align="left">
-   <a href="mailto:general@grocco.org">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/giuseppe-rocco-836b55307">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
 ## 📚 My skillset
 I believe that with patience and commitment, anything can be achieved.  
@@ -43,9 +32,9 @@ Learning another language or using a new toolchain is not an issue for me.
 
 <br>My favourite languages:</br>
 <p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,lua,py,swift">
-    </a>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,lua,py,swift">
+   </a>
 </p>
 
 <br>My favourite tools:</br>
