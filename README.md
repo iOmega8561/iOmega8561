@@ -23,7 +23,7 @@ The game-changing virtual machine manager that's about to set macOS on fire! mor
 - 🖥 Hobbyist system administrator
 - 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
 - 💼 Database Engineer with EQF level 5 qualification
-- 🎓 Computer Engineering student at [UNINA](http://www.unina.it)
+- 🎓 Computer Engineering student almost at graduation
 - 🎮 PC gaming enthusiast and hardcore gamer
 
 ## 📚 My skillset
