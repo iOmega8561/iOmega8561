@@ -19,30 +19,20 @@ Here are some ideas to get you started:
 The game-changing virtual machine manager that's about to set macOS on fire! more about it [here](https://tesseract.grocco.org). 🚀
 
 ## 📖 About me
-- 🐧 Linux enthusiast and [Open Source](https://www.redhat.com/en/topics/open-source/what-is-open-source) supporter
-- 🖥 Hobbyist system administrator
-- 🍎 World Class Developer, graduated from [Apple Developer Academy](https://www.developeracademy.unina.it)
-- 💼 Database Engineer with EQF level 5 qualification
-- 🎓 Computer Engineering student almost at graduation
-- 🎮 PC gaming enthusiast and hardcore gamer
+- 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use Arch btw.)
+- 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it) <strong>graduate</strong> & [ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>enrolled</strong> student
+- 💼 Database Engineer with [EQF Level 5](https://capire.regione.campania.it/rrtq/public/scheda/141) <strong>certification</strong> from Regione Campania
+- 🎓 Computer Engineering undergraduate, specializing in <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
+- 🎮 Steam library: <strong>136 games and counting</strong>! Always ready for a new challenge.
 
 ## 📚 My skillset
-I believe that with patience and commitment, anything can be achieved.  
-Learning another language or using a new toolchain is not an issue for me.
+I'm a <strong>professional tinkerer</strong>. I've come across so many things that I'm no longer intimidated when approaching something new. Down below, there's a selection of tools and toolchains, that I enjoy using daily or have spent a significant amount of time exploring and mastering.
 
-<br>My favourite languages:</br>
-<p>
+<div align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,lua,py,swift">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,py,swift,cloudflare,docker,git,linux,mysql,vscode,windows">
    </a>
-</p>
-
-<br>My favourite tools:</br>
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cloudflare,docker,git,linux,mysql,vscode,windows">
-    </a>
-</p>
+</div>
 
 ## 🔧 What I'm up to
 - 🔨 I'm currently...
