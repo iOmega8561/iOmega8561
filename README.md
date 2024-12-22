@@ -25,7 +25,7 @@ If you have a minute to spare, take a look at the work I'm doing together with [
 - 🎮 Steam library: <strong>136 games and counting</strong>! Always ready for a new challenge.
 
 ## 📚 My skillset
-I'm a <strong>professional tinkerer</strong>. I've come across so many things that I'm no longer intimidated when approaching something new. Down below, there's a selection of tools and toolchains, that I enjoy using daily or have spent a significant amount of time exploring and mastering.
+I'm a <strong>professional tinkerer</strong>. I've come across so many things that I'm no longer intimidated when approaching something new. Here's a selection of tools and toolchains, that I enjoy using daily or have spent a significant amount of time exploring and mastering.
 
 <div align="center">
    <a href="https://skillicons.dev">
