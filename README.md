@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+If you have a minute to spare, take a look at the work I'm doing together with [Lunaris Team](https://github.com/LunarisTeam)!
+
 ## 📖 About me
 - 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use Arch btw.)
 - 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it) <strong>graduate</strong> & [ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>enrolled</strong> student
