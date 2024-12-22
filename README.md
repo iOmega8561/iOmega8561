@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔥 **Brewing Tesseract:** 
-The game-changing virtual machine manager that's about to set macOS on fire! more about it [here](https://tesseract.grocco.org). 🚀
-
 ## 📖 About me
 - 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use Arch btw.)
 - 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it) <strong>graduate</strong> & [ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>enrolled</strong> student
@@ -35,11 +32,10 @@ I'm a <strong>professional tinkerer</strong>. I've come across so many things th
 </div>
 
 ## 🔧 What I'm up to
-- 🔨 I'm currently...
-    - Exploring new horizons at Apple Developer Academy!
-    - Learning about Spacial Computing and Augmented Reality
+- 🔨 Currently working on:
+    - 🖥️ <strong>Tesseract</strong>: the game-changing [Virtual Machine Manager](https://tesseract.grocco.org) that's about to set macOS on fire!
+    - 🥽 <strong>DcmVision</strong>: setting new standards for the medical industry by using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro!
 
 - 🤞 One day I hope to...
-    - Contribute to the [Linux Kernel](https://github.com/torvalds/linux)
-    - Write something in [Rust](https://www.rust-lang.org/it) (I did not have the chance yet)
-    - Install [Gentoo Linux](https://www.gentoo.org/) (too much time to compile stuff)
+    - Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
+    - Develop an Open Source project using [Rust](https://www.rust-lang.org/it)
