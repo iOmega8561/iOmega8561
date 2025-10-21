@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 If you have a minute to spare, take a look at the work I'm doing together with [Lunaris Team](https://github.com/LunarisTeam)!
 
 ## 📖 About me
+- 🎓 Computer Engineer with strong knowledge of <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
 - 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use Arch btw.)
 - 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it) <strong>graduate</strong> & [ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>enrolled</strong> student
 - 💼 Database Engineer with [EQF Level 5](https://capire.regione.campania.it/rrtq/public/scheda/141) <strong>certification</strong> from Regione Campania
-- 🎓 Computer Engineering undergraduate, specializing in <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
 - 🎮 Steam library: <strong>136 games and counting</strong>! Always ready for a new challenge.
 
 ## 📚 My skillset
