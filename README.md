@@ -19,8 +19,8 @@ If you have a minute to spare, take a look at the work I'm doing together with [
 
 ## 📖 About me
 - 🎓 Computer Engineer with strong knowledge of <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
-- 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use Arch btw.)
-- 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it) <strong>graduate</strong> & [ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>enrolled</strong> student
+- 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use [Arch](https://www.archlinux.org) btw.)
+- 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it/en/about) <strong>alumnus</strong> ([ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>Team Lead</strong> and <strong>Coder</strong>)
 - 💼 Database Engineer with [EQF Level 5](https://capire.regione.campania.it/rrtq/public/scheda/141) <strong>certification</strong> from Regione Campania
 - 🎮 Steam library: <strong>136 games and counting</strong>! Always ready for a new challenge.
 
@@ -35,8 +35,8 @@ I'm a <strong>professional tinkerer</strong>. I've come across so many things th
 
 ## 🔧 What I'm up to
 - 🔨 Currently working on:
-    - 🖥️ <strong>Tesseract</strong>: the game-changing [Virtual Machine Manager](https://tesseract.grocco.org) that's about to set macOS on fire!
-    - 🥽 <strong>DcmVision</strong>: setting new standards for the medical industry by using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro!
+    - 🖥️ <strong>Tesseract</strong>: the game-changing [Virtual Machine Manager](https://tesseract.grocco.org) available on macOS!
+    - 🥽 <strong>DcmVision</strong>: pioneering the medical industry by using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro!
 
 - 🤞 One day I hope to...
     - Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
