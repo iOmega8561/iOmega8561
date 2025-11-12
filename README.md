@@ -36,8 +36,9 @@ Below are my favourites.
 </div>
 
 ## 🔧 A glance at my work
-- 🖥️ <strong>Tesseract</strong>: native, easy and powerful [Virtual Machine Manager](https://tesseract.grocco.org) available on macOS
-- 🥽 <strong>DcmVision</strong>: a pioneering medical project using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro
+- 🖥️ <strong>Tesseract</strong>: native, easy and powerful virtual machine manager available on macOS. [🔗](https://tesseract.grocco.org)
+- 🥽 <strong>DcmVision</strong>: a pioneering medical project using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro. [🔗](https://github.com/iOmega8561/DcmVision)
+- 💾 <strong>QEMU Manager</strong>: open source QEMU-based retro emulator and virtualization utility for macOS. [🔗](https://github.com/iOmega8561/QEMU-Manager)
 
 ## 🤞 One day I hope to...
 - Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
