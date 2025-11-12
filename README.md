@@ -39,6 +39,7 @@ Below are my favourites.
 - 🖥️ <strong>Tesseract</strong>: native, easy and powerful virtual machine manager available on macOS. [🔗](https://tesseract.grocco.org)
 - 🥽 <strong>DcmVision</strong>: a pioneering medical project using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro. [🔗](https://github.com/iOmega8561/DcmVision)
 - 💾 <strong>QEMU Manager</strong>: open source QEMU-based retro emulator and virtualization utility for macOS. [🔗](https://github.com/iOmega8561/QEMU-Manager)
+- ⌨️ <strong>Archibald</strong>: open source Archlinux post-install utility and configurator, ideal for brand new arch setups. [🔗](https://github.com/iOmega8561/Archibald)
 
 ## 🤞 One day I hope to...
 - Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
