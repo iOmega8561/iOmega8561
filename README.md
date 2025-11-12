@@ -21,11 +21,13 @@ If you have a minute to spare, take a look at the work I'm doing together with [
 - 🎓 Computer Engineer with strong knowledge of <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
 - 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use [Arch](https://www.archlinux.org) btw.)
 - 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it/en/about) <strong>alumnus</strong> ([ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>Team Lead</strong> and <strong>Coder</strong>)
-- 💼 Database Engineer with [EQF Level 5](https://capire.regione.campania.it/rrtq/public/scheda/141) <strong>certification</strong> from Regione Campania
+- 💼 Database Engineer [officially certified](https://capire.regione.campania.it/rrtq/public/scheda/141) by Regione Campania
 - 🎮 Steam library: <strong>136 games and counting</strong>! Always ready for a new challenge.
 
 ## 📚 My skillset
-I'm a <strong>professional tinkerer</strong>. I've come across so many things that I'm no longer intimidated when approaching something new. Here's a selection of tools and toolchains, that I enjoy using daily or have spent a significant amount of time exploring and mastering.
+As a <strong>professional tinkerer</strong>, I enjoy diving deep into systems and experimenting with new technologies.
+A solid understanding of the fundamentals enables me to move fluently across different environments, tools, and toolchains.
+Below are my favourites.
 
 <div align="center">
    <a href="https://skillicons.dev">
@@ -33,11 +35,10 @@ I'm a <strong>professional tinkerer</strong>. I've come across so many things th
    </a>
 </div>
 
-## 🔧 What I'm up to
-- 🔨 Currently working on:
-    - 🖥️ <strong>Tesseract</strong>: the game-changing [Virtual Machine Manager](https://tesseract.grocco.org) available on macOS!
-    - 🥽 <strong>DcmVision</strong>: pioneering the medical industry by using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro!
+## 🔧 A glance at my work
+- 🖥️ <strong>Tesseract</strong>: native, easy and powerful [Virtual Machine Manager](https://tesseract.grocco.org) available on macOS
+- 🥽 <strong>DcmVision</strong>: a pioneering medical project using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro
 
-- 🤞 One day I hope to...
-    - Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
-    - Develop an Open Source project using [Rust](https://www.rust-lang.org/it)
+## 🤞 One day I hope to...
+- Provide meaningful contributions to the [Linux Kernel](https://github.com/torvalds/linux)
+- Develop an Open Source project using [Rust](https://www.rust-lang.org/it)
