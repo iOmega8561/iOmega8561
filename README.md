@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 If you have a minute to spare, take a look at the work I'm doing together with [Lunaris Team](https://github.com/LunarisTeam)!
 
 ## 📖 About me
-- 🎓 Computer Engineer with strong knowledge of <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
+- 🎓 B.Sc. in Computer Engineering • Strong in <strong>Operating Systems</strong> and <strong>Software Engineering</strong>
 - 🐧 Linux <strong>enthusiast</strong>, System Administrator and proud <strong>daily driver</strong> (I use [Arch](https://www.archlinux.org) btw.)
 - 🍎 [Apple Developer Academy](https://www.developeracademy.unina.it/en/about) <strong>alumnus</strong> ([ARTE Program](https://www.developeracademy.unina.it/en/arte24-25_call_en/) <strong>Team Lead</strong> and <strong>Coder</strong>)
 - 💼 Database Engineer [officially certified](https://capire.regione.campania.it/rrtq/public/scheda/141) by Regione Campania
