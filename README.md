@@ -1,6 +1,6 @@
 ### 👋 Nice to see you here!
 
-**Fullstack engineer by day, iOS engineer by night. System Engineer at work and at play.**
+**Software engineer by day, iOS engineer by night. Systems engineer 24/7 ❤️​.**
 
 I'm an engineer working at the intersection of systems and application development. My career spans from server infrastructure and virtualization to Swift applications across the entire Apple ecosystem. 
 
