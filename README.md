@@ -34,12 +34,10 @@ A love affair discovered through work. Spring taught me production-grade softwar
 
 ## 🚀 Selected Projects
 
-| Project | Description |
-|---------|-------------|
-| 🖥️ [Tesseract](https://tesseract.grocco.org) | Native, easy, and powerful VM manager for macOS |
-| 🥽 [DcmVision](https://github.com/iOmega8561/DcmVision) | Pioneering DICOM integration with Apple Vision Pro (visionOS) |
-| 💾 [QEMU Manager](https://github.com/iOmega8561/QEMU-Manager) | Open-source QEMU-based retro emulator & virtualization utility |
-| ⌨️ [Archibald](https://github.com/iOmega8561/Archibald) | Open-source Arch Linux post-install utility and configurator |
+- 🖥️ <strong>Tesseract</strong>: native, easy and powerful virtual machine manager available on macOS. [🔗](https://tesseract.grocco.org)
+- 🥽 <strong>DcmVision</strong>: a pioneering medical project using [DICOM](https://www.dicomstandard.org/) with the Apple Vision Pro. [🔗](https://github.com/iOmega8561/DcmVision)
+- 💾 <strong>QEMU Manager</strong>: open source QEMU-based retro emulator and virtualization utility for macOS. [🔗](https://github.com/iOmega8561/QEMU-Manager)
+- ⌨️ <strong>Archibald</strong>: open source Archlinux post-install utility and configurator, ideal for brand new arch setups. [🔗](https://github.com/iOmega8561/Archibald)
 
 
 ## 🤞 What's next
